@@ -1,2 +1,5 @@
-# elerix-cpm-fw
-ELERIX Cell Performance Monitor - firmware
+# CPM Firmware
+
+Zdrojové kódy pro PIC16F19196. 
+
+

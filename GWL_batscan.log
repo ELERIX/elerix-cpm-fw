@@ -1,0 +1,33 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F19196 -DL -O11111114 -fo32 -N"C:\ubiprojects\GWL_CPM\version_fianlni_upravene108_062020\GWL_batscan.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16_Enh\" -SP"C:\ubiprojects\GWL_CPM\version_fianlni_upravene108_062020\" -SP"C:\ubiprojects\GWL_CPM\version_fianlni_upravene108_062020\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16_Enh\" -IP"C:\ubiprojects\GWL_CPM\version_fianlni_upravene108_062020\" "GWL_batscan.c" "NewUnit_0.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_ADC_191xx.mcl" "__Lib_EEPROM_256.mcl"	 
+hint: 0	1139	Available RAM: 2032 [bytes], Available ROM: 16384 [bytes]	 
+diagnostics: 0	122	Compilation Started	GWL_batscan.c
+hint: 911	1163	Variable 'i' has been declared, but not used	GWL_batscan.c
+hint: 971	1163	Variable 't' has been declared, but not used	GWL_batscan.c
+hint: 1018	1163	Variable 'temp' has been declared, but not used	GWL_batscan.c
+hint: 1878	1163	Variable 'max' has been declared, but not used	GWL_batscan.c
+hint: 2243	1163	Variable 'Vres' has been declared, but not used	GWL_batscan.c
+hint: 2244	1163	Variable 'vysledek' has been declared, but not used	GWL_batscan.c
+hint: 2245	1163	Variable 'Voffset' has been declared, but not used	GWL_batscan.c
+hint: 2245	1163	Variable 'Vdif' has been declared, but not used	GWL_batscan.c
+hint: 2880	1163	Variable 'i' has been declared, but not used	GWL_batscan.c
+hint: 3091	1163	Variable 'j' has been declared, but not used	GWL_batscan.c
+diagnostics: 3556	123	Compiled Successfully	GWL_batscan.c
+hint: 859	1164	Variable 'st' has been eliminated by optimizer	GWL_batscan.c
+hint: 878	1164	Variable 'c' has been eliminated by optimizer	GWL_batscan.c
+hint: 921	1164	Variable 'i' has been eliminated by optimizer	GWL_batscan.c
+hint: 922	1164	Variable 't' has been eliminated by optimizer	GWL_batscan.c
+hint: 970	1164	Variable 'i' has been eliminated by optimizer	GWL_batscan.c
+hint: 1876	1164	Variable 'result' has been eliminated by optimizer	GWL_batscan.c
+hint: 1878	1164	Variable 'testtemp' has been eliminated by optimizer	GWL_batscan.c
+hint: 1921	1164	Variable 'Vdif' has been eliminated by optimizer	GWL_batscan.c
+hint: 1920	1164	Variable 'odd' has been eliminated by optimizer	GWL_batscan.c
+hint: 3092	1164	Variable 'volt' has been eliminated by optimizer	GWL_batscan.c
+diagnostics: 0	122	Compilation Started	NewUnit_0.c
+diagnostics: 0	123	Compiled Successfully	NewUnit_0.c
+diagnostics: 0	127	All files Compiled in 328 ms	 
+hint: 0	1144	Used RAM (bytes): 1390 (68%)  Free RAM (bytes): 642 (32%)	Used RAM (bytes): 1390 (68%)  Free RAM (bytes): 642 (32%)
+hint: 0	1144	Used ROM (program words): 12035 (73%)  Free ROM (program words): 4349 (27%)	Used ROM (program words): 12035 (73%)  Free ROM (program words): 4349 (27%)
+diagnostics: 0	125	Project Linked Successfully	GWL_batscan.mcppi
+diagnostics: 0	128	Linked in 62 ms	 
+diagnostics: 0	129	Project 'GWL_batscan.mcppi' completed: 422 ms	 
+diagnostics: 0	103	Finished successfully: 03 øíj 2020, 22:29:15	GWL_batscan.mcppi
