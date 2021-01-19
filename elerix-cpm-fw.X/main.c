@@ -1,6 +1,12 @@
 #include <xc.h>
 #include <string.h>
 
+#pragma config CONFIG1 = 0x0B10
+#pragma config CONFIG2 = 0x3626
+#pragma config CONFIG3 = 0x3F1F
+#pragma config CONFIG4 = 0x041F
+#pragma config CONFIG5 = 0x0001
+
 /* Internal XTAL freq */
 #define _XTAL_FREQ 32000000 /* Hz */
 
@@ -2379,7 +2385,7 @@ u8_t Umax_button() {
 
     }
 
-
+    return 0xFF;
 }
 
 void init_adc() {
