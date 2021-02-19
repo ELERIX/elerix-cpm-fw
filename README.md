@@ -1,5 +1,6 @@
 # CPM Firmware
 
-Zdrojové kódy pro PIC16F19196. 
+Source code. 
 
+IDE: MPLAB
 
